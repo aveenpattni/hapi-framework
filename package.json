@@ -1,0 +1,14 @@
+{
+  "name": "hapi-framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aveen Pattni <aveen.pattni@walmart.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^17.9.0",
+    "@types/node": "^13.13.0"
+  },
+  "scripts": {
+    "start": "node index.ts"
+  }
+}
